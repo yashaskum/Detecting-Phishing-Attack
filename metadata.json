@@ -1,0 +1,6 @@
+{
+  "name": "VirusTotal Clone",
+  "description": "VirusTotal clone with multi-engine security scanner, file/URL/hash threat intelligence, sandbox behavioral analysis, downloadable scanner code in Python/Node/Go/Bash, and Gemini-powered security analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
