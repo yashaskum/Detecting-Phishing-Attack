@@ -741,7 +741,7 @@
             } catch (err) {
                 analyzeBtn.classList.remove('loading');
                 analyzeBtn.disabled = false;
-                alert('Server connection error. Please make sure server is running on http://localhost:3000');
+                alert('API connection error. Please verify VIRUSTOTAL_API_KEY environment variable in Vercel settings.');
             }
         }
 
